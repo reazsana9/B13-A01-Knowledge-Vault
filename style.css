@@ -77,7 +77,7 @@ nav ul li:hover {
 
 main {
   height: 674px;
-  background: url(../assets/hero-bg.png);
+  background: url(./assets/hero-bg.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
